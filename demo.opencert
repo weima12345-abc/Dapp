@@ -10,8 +10,7 @@
     "$template": {
       "name": "9ae67ad8-2e9f-4309-a3fa-b5eea35d6066:string:GOVTECH_DEMO",
       "type": "f8b29fb4-614c-4815-970c-3a69d986f30a:string:EMBEDDED_RENDERER",
-      "url": "a59366a8-09f7-49cd-a7ce-228f64f04fb7:string:https://demo-renderer.opencerts.io"
-    },
+      "url": "a59366a8-09f7-49cd-a7ce-228f64f04fb7:string:https://demo-ren
     "issu
       {
         "name": "996ac57b-db78-459c-b77a-3eaef5df4504:string:Govtech",
@@ -35,34 +34,11 @@
       },
       {
         "name": "77f9c638-fba4-4bf5-aa90-73f038329886:string:Object Oriented Programming in Java",
-        "grade": "a4e3e3c5-5840-47c3-acfd-3e6f9acfaef4:string:A+",
-        "courseCredit": "8007267f-65f9-4396-a3e6-ef1fc5116918:string:4",
-        "courseCode": "b25611aa-a807-4134-89eb-86a4bc030c81:string:CS 2110",
-        "examinationDate": "9199ebea-eb76-4b38-9f3d-e5e01726106b:string:2017-12-01T00:00:00+08:00",
-        "semester": "b3315025-d093-4694-b05a-76722377d692:string:1"
-      },
-      {
-        "name": "da500ed9-d048-4d01-8136-266bdc0fed62:string:Microeconomics",
-        "grade": "4f3e8c12-d485-4a65-9b81-cac74891008e:string:A+",
-        "courseCredit": "ade2548b-4bda-416e-aae1-17d1d22183be:string:4",
-        "courseCode": "31be4505-b52c-476a-9d2e-60e88d9c5a64:string:ECON 3030",
-        "examinationDate": "912bf9f9-8b81-4a35-87af-f8113792bfda:string:2018-05-01T00:00:00+08:00",
-        "semester": "484fce34-f4f4-4533-8a22-0dc534f8a3b8:string:2"
-      },
-      {
+        "grade": "a4e3e3c
         "name": "34508506-3165-4944-a14b-667023aab98b:string:Macroeconomics",
         "grade": "3ee3926a-fd44-44a7-81fa-30509b0058df:string:A",
         "courseCredit": "a87daea5-5e8b-40b1-87f5-20527ac5807b:string:4",
-        "courseCode": "90d93dd3-c586-488f-9968-618837dad6cc:string:ECON 3040",
-        "examinationDate": "378fcc06-e763-47b8-9f2e-248a29ac82fe:string:2018-05-01T00:00:00+08:00",
-        "semester": "aeb21232-1756-42a1-999a-2257bef5da4b:string:2"
-      },
-      {
-        "name": "d50239be-963e-48d4-ba5f-c9bbc096eb9d:string:Econometrics",
-        "grade": "cbc52f57-b54a-4a22-90f5-3da13500c099:string:A-",
-        "courseCredit": "74d5d074-859a-472f-91a6-cd2807ae44a8:string:4",
-        "courseCode": "a098f8d1-db6c-436d-918b-4c0bbd4d9f1b:string:ECON 3120",
-        "examinationDate": "46e564b2-12e1-4ee6-b44a-9127130a029c:string:2018-05-01T00:00:00+08:00",
+        "6-b44a-9127130a029c:string:2018-05-01T00:00:00+08:00",
         "semester": "25b73bc3-87e9-42d4-8c92-6e6a0f58e962:string:2"
       }
     ],
@@ -78,13 +54,4 @@
           "organisation": "39502ba4-808c-40d0-8751-95d4de7e64bd:string:Govtech"
         }
       ]
-    }
-  },
-  "privacy": {},
-  "signature": {
-    "type": "SHA3MerkleProof",
-    "targetHash": "cbd224a72af5e0050bd58ab2264094cbacac0f19f7f430e347cad451ae8c590d",
-    "proof": [],
-    "merkleRoot": "cbd224a72af5e0050bd58ab2264094cbacac0f19f7f430e347cad451ae8c590d"
-  }
-}
+   
