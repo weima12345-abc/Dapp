@@ -12,7 +12,7 @@
       "type": "f8b29fb4-614c-4815-970c-3a69d986f30a:string:EMBEDDED_RENDERER",
       "url": "a59366a8-09f7-49cd-a7ce-228f64f04fb7:string:https://demo-renderer.opencerts.io"
     },
-    "issuers": [
+    "issu
       {
         "name": "996ac57b-db78-459c-b77a-3eaef5df4504:string:Govtech",
         "url": "23ef3d1b-09e0-41b6-84b4-b99c10605c06:string:https://tech.gov.sg",
